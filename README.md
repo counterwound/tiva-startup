@@ -1,2 +1,2 @@
-# tiva-usb-bootloader
-USB Bootloader files to the Tiva C Series
+# tiva-startup
+Basic setup for Tiva Mictocontroller
